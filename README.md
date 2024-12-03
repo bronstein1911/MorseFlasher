@@ -39,6 +39,7 @@ MorseFlasher is a simple iOS app that converts text into Morse code and transmit
 - **Fun**: Share secret messages with friends.
 
 ---
+<img width="697" alt="Снимок экрана 2024-12-03 в 15 04 52" src="https://github.com/user-attachments/assets/6dee6588-7c59-4038-a834-07bcafcbf005">
 
 ## Installation
 
