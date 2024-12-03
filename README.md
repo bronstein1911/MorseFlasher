@@ -3,7 +3,7 @@
 
 MorseFlasher is a simple iOS app that converts text into Morse code and transmits it via the device flashlight. Perfect for learning Morse code, sending emergency signals, or just having fun!
 
-[Vector](https://github.com/user-attachments/assets/51c1e5aa-ae7f-414c-a000-b93434a2a9b8)
+![Vector](https://github.com/user-attachments/assets/b960f6ab-6d7a-41a4-a78b-9addc6c39655)
 
 
 ---
